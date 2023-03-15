@@ -44,3 +44,5 @@
 [0313/232106.753:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
 [0313/232235.531:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
 [0313/232238.486:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
+[0315/172055.895:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
+[0315/172140.672:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 

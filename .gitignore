@@ -49,3 +49,8 @@ Session.vim
 
 # Visual Studio
 .vs
+*.uasset
+Saved/Autosaves/Game/__ExternalActors__/Maps/Slash/0/01/MP1IACT414A8AKOTOVYFFK_Auto1.uasset
+*.uasset
+*.uasset
+Saved/Autosaves/Game/__ExternalActors__/Maps/Slash/1/LF/A5DT2FPEPZQTNCRARR0LVB_Auto1.uasset
