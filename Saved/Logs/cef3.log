@@ -154,3 +154,15 @@
 [0317/232350.462:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
 [0317/232552.039:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
 [0317/232817.533:ERROR:display_layout.cc(562)] PlacementList must be sorted by first 8 bits of display_id 
+[0502/163746.833:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0504/151628.738:WARNING:gpu_process_host.cc(1230)] The GPU process has crashed 1 time(s)
+[0504/151628.862:ERROR:network_service_instance_impl.cc(263)] Network service crashed, restarting service.
+[0504/151629.102:WARNING:gpu_process_host.cc(972)] Reinitialized the GPU process after a crash. The reported initialization time was 192 ms
+[0504/151802.070:ERROR:network_service_instance_impl.cc(263)] Network service crashed, restarting service.
+[0504/151802.142:WARNING:gpu_process_host.cc(1230)] The GPU process has crashed 2 time(s)
+[0504/151802.475:WARNING:gpu_process_host.cc(972)] Reinitialized the GPU process after a crash. The reported initialization time was 179 ms
+[0504/183827.080:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0504/183827.081:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0504/183827.549:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0504/183827.549:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0505/155634.703:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
